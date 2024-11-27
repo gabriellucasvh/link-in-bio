@@ -6,6 +6,7 @@ Este é um projeto front-end criado com Next.js e Tailwind CSS que exibe um cart
 - Next.js
 - Tailwind
 - Shadcn
+- Typescript
 
 ## Estrutura e Renderização
 `socialLinks:` Array de objetos com detalhes de cada rede social:
